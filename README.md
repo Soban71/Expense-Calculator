@@ -1,7 +1,8 @@
 #Following is screenshot of my project
 
 1.
-"C:\Users\pc\Music\Ss.png"
+![Ss](https://user-images.githubusercontent.com/93777909/223149113-0ed58fc1-b0fa-467a-bc9b-06ae7b9cc38d.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
