@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+#Following is screenshot of my project
+
+1.
+"C:\Users\pc\Music\Ss.png"
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
