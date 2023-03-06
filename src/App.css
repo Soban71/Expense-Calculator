@@ -1,5 +1,9 @@
+
 .App {
   text-align: center;
+  background-color: white;
+  height: 100vh;
+  font-family: 'Raleway', sans-serif;
 }
 
 .App-logo {
